@@ -1,0 +1,10 @@
+﻿@model IEnumerable<FCP.Entities.Concrete.Category>
+
+@{
+    Layout = null;
+}
+
+@foreach (var item in Model)
+{
+    <a href="~/Product/Index/@item.ID" class="list-group-item">@item.Name</a>
+}

@@ -1,0 +1,16 @@
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Business\bin\Debug\netcoreapp2.1\FCP.Business.deps.json
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Business\bin\Debug\netcoreapp2.1\FCP.Business.dll
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Business\bin\Debug\netcoreapp2.1\FCP.Business.pdb
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Business\bin\Debug\netcoreapp2.1\FCP.Core.dll
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Business\bin\Debug\netcoreapp2.1\FCP.DAL.dll
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Business\bin\Debug\netcoreapp2.1\FCP.Entities.dll
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Business\bin\Debug\netcoreapp2.1\FCP.Core.pdb
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Business\bin\Debug\netcoreapp2.1\FCP.DAL.pdb
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Business\bin\Debug\netcoreapp2.1\FCP.Entities.pdb
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Business\obj\Debug\netcoreapp2.1\FCP.Business.csprojAssemblyReference.cache
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Business\obj\Debug\netcoreapp2.1\FCP.Business.csproj.CoreCompileInputs.cache
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Business\obj\Debug\netcoreapp2.1\FCP.Business.AssemblyInfoInputs.cache
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Business\obj\Debug\netcoreapp2.1\FCP.Business.AssemblyInfo.cs
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Business\obj\Debug\netcoreapp2.1\FCP.Business.csproj.CopyComplete
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Business\obj\Debug\netcoreapp2.1\FCP.Business.dll
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Business\obj\Debug\netcoreapp2.1\FCP.Business.pdb

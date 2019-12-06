@@ -1,0 +1,11 @@
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Core\bin\Debug\netcoreapp2.1\FCP.Core.deps.json
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Core\bin\Debug\netcoreapp2.1\FCP.Core.dll
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Core\bin\Debug\netcoreapp2.1\FCP.Core.pdb
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Core\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Core\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Core\obj\Debug\netcoreapp2.1\FCP.Core.csproj.CoreCompileInputs.cache
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Core\obj\Debug\netcoreapp2.1\FCP.Core.AssemblyInfoInputs.cache
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Core\obj\Debug\netcoreapp2.1\FCP.Core.AssemblyInfo.cs
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Core\obj\Debug\netcoreapp2.1\FCP.Core.csproj.CopyComplete
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Core\obj\Debug\netcoreapp2.1\FCP.Core.dll
+C:\Users\elif.karayel\source\repos\FirstCoreProject\FCP.Core\obj\Debug\netcoreapp2.1\FCP.Core.pdb
